@@ -78,5 +78,5 @@ I'm comfortable across the modern Android stack—Jetpack Compose, Clean Archite
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarek-Bohdima&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Tarek's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Tarek-Bohdima&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Tarek's GitHub Stats" />
 </div>
