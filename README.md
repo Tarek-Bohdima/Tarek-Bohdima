@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bohdima)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:tarek.buhdeima@gmail.com)
 [![Google Dev](https://img.shields.io/badge/Google_Dev-Profile-blue?style=for-the-badge&logo=google)](https://g.dev/tarekbohdima)
+[![GitHub Dev](https://img.shields.io/badge/GitHub_Developer_Program-Member-black?style=for-the-badge&logo=github)](https://github.com/Tarek-Bohdima)
 
 ---
 
