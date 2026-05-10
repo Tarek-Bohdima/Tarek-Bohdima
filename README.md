@@ -65,8 +65,19 @@ I'm comfortable across the modern Android stack—Jetpack Compose, Clean Archite
 ## 🌱 Open Source & Projects
 
 - **[Greenstand Treetracker](https://github.com/Greenstand/treetracker-android):** Actively leading the Android client development to support global reforestation tracking.
+- **[BakingApp](https://github.com/Tarek-Bohdima/BakingApp):** Modern Kotlin/Compose rewrite of the Udacity capstone — Hilt, Room, Media3, Glance widget. Personal portfolio piece.
 - **Aerlive:** Environmental air quality tracking application built for alpha release on Google Play.
-- **BakingApp:** Personal project showcasing modern Android development practices.
+
+---
+
+## 🛠️ Templates & Tools
+
+A small set of reusable starting points for the modern Android stack — fork them, ship faster.
+
+- **[ConsultMe](https://github.com/Tarek-Bohdima/ConsultMe)** ⭐ — Production-ready **Jetpack Compose** template preconfigured with **Spotless, Detekt, Android Lint** and a clean Gradle Kotlin DSL setup. Skip the boilerplate and start your next Compose project on day one.
+
+> 💼 **Need an Android tech lead, code review, or architecture consultation?**
+> I'm available for selective freelance and advisory work — Fintech, Compose migrations, CI/CD, and team enablement. Reach me on [LinkedIn](https://www.linkedin.com/in/bohdima) or [email](mailto:tarek.buhdeima@gmail.com).
 
 ---
 
